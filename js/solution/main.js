@@ -1,4 +1,4 @@
-import tool from "/lib/tool.js";
+import tool from "lib/tool.js";
 
 console.log(tool);
 
