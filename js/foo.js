@@ -1,1 +1,1 @@
-export default 5;
+export default { value: 5 };
